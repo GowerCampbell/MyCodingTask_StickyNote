@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.corkboard {
+    background-image: url('../images/corkboard.jpg');
+    background-size: cover;
+    padding: 20px;
+}
+
+.sticky-note {
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.sticky-note::after {
+    content: url('../images/pin.png');
+    position: absolute;
+    top: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
+.corkboard {
+    background-image: url('../images/corkboard.jpg');
+    background-size: cover;
+    padding: 20px;
+    position: relative; /* For overlay positioning */
+}
+
+.corkboard::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white overlay */
+    z-index: 1;
+}
+
+.corkboard > * {
+    position: relative; /* Ensures content stays above overlay */
+    z-index: 2;
+}
