@@ -1,6 +1,8 @@
 
 # Sticky Notes Application - README
 
+<img src="staticfiles/images/layout.png" alt="My Image" width="400">
+
 ## Overview
 The Sticky Notes Application is my first Django-based web application designed to help users create, view, update, and delete personal sticky notes. With a vintage paper aesthetic and a corkboard-inspired interface, it offers a simple yet engaging tool for note management. Built with Django's core features—models, views, forms, and templates—and enhanced with Bootstrap and custom CSS, this project combines robust backend functionality with a user-friendly front-end design.
 
