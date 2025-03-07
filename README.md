@@ -119,6 +119,8 @@ sticky_notes/
     └── asgi.py                # ASGI configuration
 ```
 
+---
+
 ## Customization
 
 ### Add Custom Fields to the User Model
@@ -149,8 +151,12 @@ DATABASES = {
 - **Search**: Implement a search bar to filter notes by title or content.
 - **Enhanced Drag-and-Drop**: Persist note positions in the database instead of local storage.
 
+---
+
 ## Conclusion
 The Sticky Notes Application is a fully functional Django project as of March 06, 2025, showcasing CRUD operations, user authentication, and a visually appealing corkboard interface. By leveraging Django’s best practices and enhancing it with custom styling, I’ve created a scalable and maintainable tool. I continue to refine its design—particularly the vintage aesthetic—and deepen my expertise in web development through this project.
+
+---
 
 ## Bibliography
 - Django Software Foundation. *Django Documentation*. https://docs.djangoproject.com/en/stable/
@@ -160,11 +166,12 @@ The Sticky Notes Application is a fully functional Django project as of March 06
 - W3Schools. *CSS Tutorial*. https://www.w3schools.com/css/
 - Simple is Better Than Complex. *How to Use Bootstrap with Django*. https://simpleisbetterthancomplex.com
 
+---
 
 ## Author
-- **[Gower Campbell]**
-- **[Gower.Campbell@gmail.com]**
-- **[Github](https://github.com/GowerCampbell)**
+- [Gower Campbell]**
+- [[Gower.Campbell@gmail.com]]**
+- [[Github]](https://github.com/GowerCampbell)**
 
 ## Acknowledgments
 - Gratitude to the HyperionDev for their comprehensive documentation and support.
