@@ -1,7 +1,7 @@
 
 # Sticky Notes Application - README
 
-<img src="staticfiles/images/layout.png" alt="My Image" width="800" style="display: block; margin: 0 auto;">
+<img src="staticfiles/images/layout.png" alt="My Image" width="1200" style="display: block; margin: 0 auto;">
 
 
 ## Overview
