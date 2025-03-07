@@ -162,12 +162,12 @@ The Sticky Notes Application is a fully functional Django project as of March 06
 ---
 
 ## Bibliography
-- Django Software Foundation. *Django Documentation*. https://docs.djangoproject.com/en/stable/
-- Python Software Foundation. *Python Documentation*. https://docs.python.org/3/
-- Mozilla Developer Network. *HTTP Cookies*. https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
-- Bootstrap. *Bootstrap Documentation*. https://getbootstrap.com/docs/5.3/
-- W3Schools. *CSS Tutorial*. https://www.w3schools.com/css/
-- Simple is Better Than Complex. *How to Use Bootstrap with Django*. https://simpleisbetterthancomplex.com
+-- Django Software Foundation. *Django Documentation*. https://docs.djangoproject.com/en/stable/
+-- Python Software Foundation. *Python Documentation*. https://docs.python.org/3/
+-- Mozilla Developer Network. *HTTP Cookies*. https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+-- Bootstrap. *Bootstrap Documentation*. https://getbootstrap.com/docs/5.3/
+-- W3Schools. *CSS Tutorial*. https://www.w3schools.com/css/
+-- Simple is Better Than Complex. *How to Use Bootstrap with Django*. https://simpleisbetterthancomplex.com
 
 ---
 
