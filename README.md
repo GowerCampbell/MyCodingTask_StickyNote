@@ -169,9 +169,9 @@ The Sticky Notes Application is a fully functional Django project as of March 06
 ---
 
 ## Author
-- [Gower Campbell]**
-- [[Gower.Campbell@gmail.com]]**
-- [[Github]](https://github.com/GowerCampbell)**
+**[Gower Campbell]**
+**[[Gower.Campbell@gmail.com]]**
+**[[Github](https://github.com/GowerCampbell)]**
 
 ## Acknowledgments
 - Gratitude to the HyperionDev for their comprehensive documentation and support.
